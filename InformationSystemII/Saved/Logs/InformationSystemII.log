@@ -723,3 +723,459 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.10-21.09.16:628][253]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/Developers/crist/Collections/' because it could not be accessed. Aborting watch request...
 [2023.03.10-21.09.16:628][253]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2023.03.10-21.09.35:625][890]LogDerivedDataCache: C:/Users/crist/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.797 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.10-21.12.45:546][435]LogBlueprint: Warning: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\RevenantPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.03.10-21.12.45:546][435]LogBlueprint: Warning: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\RevenantPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2023.03.10-21.12.45:546][435]LogBlueprint: Warning: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\RevenantPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2023.03.10-21.12.45:547][435]LogBlueprint: Warning: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\RevenantPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.03.10-21.12.45:547][435]LogBlueprint: Warning: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\RevenantPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.03.10-21.12.45:547][435]LogBlueprint: Warning: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\RevenantPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.03.10-21.12.45:547][435]LogBlueprint: Warning: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\RevenantPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.03.10-21.12.45:994][435]LogSkeletalMesh: Display: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\Meshes\Revenant.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.03.10-21.12.45:994][435]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Revenant) ...
+[2023.03.10-21.12.46:112][435]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.12.46:115][435]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant.Revenant]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.12.46:116][435]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant.Revenant]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.13.22:023][329]LogLinker: Warning: [AssetLog] C:\Users\crist\OneDrive\Documents\GitHub\Team5-MethodologyII\InformationSystemII\Content\ParagonRevenant\Characters\Heroes\Revenant\FPCAmin.uasset: Failed to load '/Game/MilitaryWeapSilver/FX/P_Shotgun_MuzzleFlash_01': Can't find file.
+[2023.03.10-21.13.22:024][329]LoadErrors: Failed to load /Game/MilitaryWeapSilver/FX/P_Shotgun_MuzzleFlash_01.P_Shotgun_MuzzleFlash_01 Referenced by ShotgunPS_GEN_VARIABLE
+[2023.03.10-21.13.22:024][329]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/MilitaryWeapSilver/FX/P_Shotgun_MuzzleFlash_01'
+[2023.03.10-21.13.22:385][329]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Revenant_RavenQuill) ...
+[2023.03.10-21.13.22:406][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.FPC
+[2023.03.10-21.13.22:406][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-21.13.23:498][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.23:498][329]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.13.23:498][329]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.13.23:507][329]LogSlate: Took 0.000741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.10-21.13.23:646][330]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.23:647][330]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.13.23:647][330]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.13.28:591][670]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.28:593][670]LogViewport: Scene viewport resized to 1301x643, mode Windowed.
+[2023.03.10-21.13.38:546][319]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.FPCAmin
+[2023.03.10-21.13.38:557][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-21.13.38:593][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-21.13.38:661][319]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 29 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 29 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 29 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:662][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Actor 'AnimationEditorPreviewActor_0' component 'DebugSkelMeshComponent_0' has 29 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:663][319]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.03.10-21.13.38:666][319]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.10-21.13.39:197][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-21.13.39:627][319]LogViewport: Scene viewport resized to 476x409, mode Windowed.
+[2023.03.10-21.13.39:753][319]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.10-21.13.42:479][460]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.008992 seconds
+[2023.03.10-21.13.42:558][460]LogSavePackage: Moving output files for package: /Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin
+[2023.03.10-21.13.42:559][460]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/FPCAmin0E35D711457F7EA451C9A4A5E14D2A0B.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.uasset'
+[2023.03.10-21.13.42:576][460]AssetCheck: New page: Asset Save: FPCAmin
+[2023.03.10-21.13.42:577][460]LogContentValidation: Display: Validating AnimBlueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.FPCAmin
+[2023.03.10-21.13.42:733][469]BlueprintLog: New page: Compile FPCAmin
+[2023.03.10-21.13.42:797][469]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.42:798][469]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.42:893][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.03.10-21.13.43:953][525]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.43:953][525]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.13.43:955][525]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.13.44:001][525]LogSavePackage: Moving output files for package: /Game/ParagonRevenant/Characters/Heroes/Revenant/FPC
+[2023.03.10-21.13.44:001][525]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/FPCFBEB57F64B9BA30252463AA734B4F113.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ParagonRevenant/Characters/Heroes/Revenant/FPC.uasset'
+[2023.03.10-21.13.44:015][525]AssetCheck: New page: Asset Save: FPC
+[2023.03.10-21.13.44:015][525]LogContentValidation: Display: Validating Blueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.FPC
+[2023.03.10-21.13.44:246][542]BlueprintLog: New page: Compile FPC
+[2023.03.10-21.13.44:315][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:316][542]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.13.44:316][542]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.13.44:317][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:318][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:319][542]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.13.44:319][542]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.13.44:320][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:321][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:322][542]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.13.44:322][542]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.13.44:323][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:388][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.03.10-21.13.44:403][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:406][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:408][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:409][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:411][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:412][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:413][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:414][542]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.13.44:414][542]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.13.44:434][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:435][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:437][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:438][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:440][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:441][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.44:479][542]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.13.51:421][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.03.10-21.13.51:421][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-21.13.52:858][128]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.10-21.14.09:031][634]LogContentBrowser: Attempting asset rename: FPC -> TPC
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.TPC_C' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.TPC:Attacking.K2Node_FunctionEntry_67' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:UserConstructionScript' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:Death' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:UnSpeedUp' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:SpeedUp' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:ActivePS' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_17' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_16' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_14' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:ComboAttackSave' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C:ResetCombo' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:084][634]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.SKEL_TPC_C' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPC.PackageMetaData'
+[2023.03.10-21.14.09:185][634]LogSavePackage: Moving output files for package: /Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin
+[2023.03.10-21.14.09:186][634]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/FPCAminC145CCB445096B0714FBE28D0942CF6A.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.uasset'
+[2023.03.10-21.14.09:193][634]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.09:193][634]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.09:193][634]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.14.09:193][634]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.14.09:208][634]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.09:208][634]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.09:208][634]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.14.09:208][634]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.14.09:238][634]LogSavePackage: Moving output files for package: /Game/ParagonRevenant/Characters/Heroes/Revenant/TPC
+[2023.03.10-21.14.09:238][634]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/TPCE2CCB0E44D0B3D880B61C09B425A1426.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ParagonRevenant/Characters/Heroes/Revenant/TPC.uasset'
+[2023.03.10-21.14.09:319][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.03.10-21.14.09:372][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.03.10-21.14.09:419][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.10-21.14.09:436][634]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.10-21.14.09:436][634]LogContentValidation: Display: Validating Blueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.TPC
+[2023.03.10-21.14.09:436][634]LogContentValidation: Display: Validating AnimBlueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.FPCAmin
+[2023.03.10-21.14.12:668][855]LogContentBrowser: Attempting asset rename: FPCAmin -> TPCAmin
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin_C' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin:AnimGraph.AnimGraphNode_StateMachine_5.Ground Locomotion.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin:AnimGraph.AnimGraphNode_StateMachine_5.Ground Locomotion.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_24' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.SKEL_TPCAmin_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.SKEL_TPCAmin_C' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.SKEL_TPCAmin_C:BlueprintInitializeAnimation' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.SKEL_TPCAmin_C:BlueprintBeginPlay' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.SKEL_TPCAmin_C:Attacking_Event_0' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.SKEL_TPCAmin_C:AnimGraph' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin_C:BlueprintBeginPlay' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin_C:BlueprintInitializeAnimation' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:694][855]LogMetaData: Removing '/Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin_C:AnimGraph' ref from Metadata '/Game/ParagonRevenant/Characters/Heroes/Revenant/FPCAmin.PackageMetaData'
+[2023.03.10-21.14.12:750][855]LogSavePackage: Moving output files for package: /Game/ParagonRevenant/Characters/Heroes/Revenant/TPC
+[2023.03.10-21.14.12:750][855]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/TPC621050324812455B66636899E70A7154.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ParagonRevenant/Characters/Heroes/Revenant/TPC.uasset'
+[2023.03.10-21.14.12:805][855]LogSavePackage: Moving output files for package: /Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin
+[2023.03.10-21.14.12:805][855]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/TPCAminFD015EE64C89943929E04B831FD622BB.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.uasset'
+[2023.03.10-21.14.12:881][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.10-21.14.12:930][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.03.10-21.14.12:977][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.10-21.14.12:984][855]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.10-21.14.12:984][855]LogContentValidation: Display: Validating Blueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.TPC
+[2023.03.10-21.14.12:985][855]LogContentValidation: Display: Validating AnimBlueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin
+[2023.03.10-21.14.22:042][612]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2023.03.10-21.14.22:042][612]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/BP_ThirdPersonGameMode7151DAB94F6D1A1F7ACE61B9B774CBAC.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2023.03.10-21.14.22:057][612]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2023.03.10-21.14.22:057][612]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.03.10-21.14.22:305][633]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2023.03.10-21.14.22:386][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.10-21.14.24:704][781]LogSavePackage: Moving output files for package: /Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin
+[2023.03.10-21.14.24:704][781]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/TPCAmin056489C44AFF5E68C289808BBBE93292.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.uasset'
+[2023.03.10-21.14.24:717][781]AssetCheck: New page: Asset Save: TPCAmin
+[2023.03.10-21.14.24:717][781]LogContentValidation: Display: Validating AnimBlueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/TPCAmin.TPCAmin
+[2023.03.10-21.14.24:896][792]BlueprintLog: New page: Compile TPCAmin
+[2023.03.10-21.14.24:963][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.24:964][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.24:964][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.24:965][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.24:965][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.25:016][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.10-21.14.27:092][907]LogSavePackage: Moving output files for package: /Game/ParagonRevenant/Characters/Heroes/Revenant/TPC
+[2023.03.10-21.14.27:092][907]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Saved/TPC976FE4A444EF40DC3D3277849E99AE40.tmp' to '../../../../../../Users/crist/OneDrive/Documents/GitHub/Team5-MethodologyII/InformationSystemII/Content/ParagonRevenant/Characters/Heroes/Revenant/TPC.uasset'
+[2023.03.10-21.14.27:105][907]AssetCheck: New page: Asset Save: TPC
+[2023.03.10-21.14.27:105][907]LogContentValidation: Display: Validating Blueprint /Game/ParagonRevenant/Characters/Heroes/Revenant/TPC.TPC
+[2023.03.10-21.14.27:285][920]BlueprintLog: New page: Compile TPC
+[2023.03.10-21.14.27:344][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:345][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.14.27:345][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.14.27:345][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:347][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:347][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.14.27:348][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.14.27:349][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:349][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:350][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.14.27:350][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.14.27:351][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:352][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:353][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.14.27:353][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.14.27:354][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:355][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:355][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.14.27:355][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.14.27:356][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:433][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.10-21.14.27:448][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:450][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:452][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:453][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:456][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:457][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:458][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:459][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:461][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:463][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:464][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:465][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.03.10-21.14.27:465][920]LogSkeletalMesh: Display: OnRegister[/Game/ParagonRevenant/Characters/Heroes/Revenant/Skins/RavenQuill/Meshes/Revenant_RavenQuill.Revenant_RavenQuill]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.03.10-21.14.27:477][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:478][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:480][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:481][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:482][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:483][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:485][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:486][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:488][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:490][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.27:519][920]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.03.10-21.14.28:616][974]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2023.03.10-21.14.28:621][974]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2023.03.10-21.14.28:625][974]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-21.14.28:626][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.14.28:681][974]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-21.14.28:681][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.14.28:690][974]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-21.14.28:690][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.14.28:751][974]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-21.14.28:751][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.14.28:768][974]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.10-21.14.28:768][974]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-21.14.28:768][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.14.30:038][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.10-21.14.30:066][ 76]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.10-21.14.30:067][ 76]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.10-21.14.30:067][ 76]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.10-21.14.30:067][ 76]LogWorldPartition: Display: ValidateSingleActorReferer took 4 us
+[2023.03.10-21.14.30:067][ 76]LogWorldPartition: Display: GetPartitionedActors took 302 us
+[2023.03.10-21.14.30:306][ 76]LogWorldPartition: Display: GenerateStreaming took 239 ms
+[2023.03.10-21.14.30:308][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.10-21.14.30:308][ 76]PIE: New page: PIE session: Untitled_1 (Mar. 10, 2023, 11:14:30 a.m.)
+[2023.03.10-21.14.30:313][ 76]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.03.10-21.14.30:313][ 76]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.10-21.14.30:313][ 76]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.03.10-21.14.30:408][ 76]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.10-21.14.30:411][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097902s)
+[2023.03.10-21.14.30:411][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.097982s)
+[2023.03.10-21.14.30:411][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.10-21.14.30:412][ 76]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.10-21.14.30:412][ 76]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.10-21.14.30:412][ 76]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.10-21.14.30:415][ 76]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2023.03.10-21.14.30:417][ 76]LogPlayLevel: PIE: World Init took: (0.005087s)
+[2023.03.10-21.14.30:478][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.03.10-21.14.30:482][ 76]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.10-21.14.30:482][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.10-21.14.30:482][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.10-21.14.30:482][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.10-21.14.30:482][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.10-21.14.30:482][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.10-21.14.30:482][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.10-21.14.30:482][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.10-21.14.30:482][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.10-21.14.30:483][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.10-21.14.30:483][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.10-21.14.30:483][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.10-21.14.30:485][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.10-21.14.30:515][ 76]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2023.03.10-21.14.30:515][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.10-21.14.30:515][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.10-21.14.30:515][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.10-21.14.30:516][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.03.10-21.14.30:516][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2023.03.10-21.14.30:518][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.03.10-21.14.30:518][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.03.10-21.14.30:518][ 76]LogInit: FAudioDevice initialized.
+[2023.03.10-21.14.30:518][ 76]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2023.03.10-21.14.30:534][ 76]LogLoad: Game class is 'GameModeBase'
+[2023.03.10-21.14.30:536][ 76]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.03.10-16.14.30
+[2023.03.10-21.14.30:537][ 76]LogWorld: Bringing up level for play took: 0.003193
+[2023.03.10-21.14.30:540][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.03.10-21.14.30:568][ 76]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=-281.000 Z=280.000
+[2023.03.10-21.14.30:568][ 76]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.03.10-21.14.30:568][ 76]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=-281.000 Z=280.000,P=0.000000 Y=92.343262 R=-0.000000
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ZAOOSF1CKGQO4P1Y7JY8UH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ZAOOSF1CKGQO4P1Y7JY8UH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_TM27AJQTOQ55ONVEI0ECE1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_3MA67PA3DFBCH9ZN7JQD7L.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_GB0G8OII70SZ6GD113L2XO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_FGPS37X2Q4K1CSUMOT46VW.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_FGPS37X2Q4K1CSUMOT46VW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_IFJ8LJV48IC5TH68CZLNHO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_XD4VCUJXDAR9W2NOY9DW31.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_T93WVF415WUK5Z5RZ5CSIN.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_T93WVF415WUK5Z5RZ5CSIN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_5ZNW5G7MV8SB8U230NTMG6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_D43LKCJAZBO2UYCSUCUWIS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_78SSMDD2EDJ42ZXJLAZFHH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_78SSMDD2EDJ42ZXJLAZFHH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_213GHJR3VJKF8O6TBXNDVM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_KUP2PAK5DP4JX85SMHKI2K.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_KUP2PAK5DP4JX85SMHKI2K.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_M0AB19DRPSE9MKYPZTVNP9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.10-21.14.30:599][ 76]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:611][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2023.03.10-21.14.30:612][ 76]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2023.03.10-21.14.30:737][ 76]PIE: Server logged in
+[2023.03.10-21.14.30:739][ 76]PIE: Play in editor total start time 0.687 seconds.
+[2023.03.10-21.14.33:528][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-21.14.33:528][223]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.03.10-21.14.33:555][223]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-21.14.33:558][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.14.33:576][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.10-21.14.33:585][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-21.14.33:614][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.10-21.14.33:633][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.10-21.14.33:635][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.10-21.14.33:638][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.10-21.14.33:713][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.03.10-21.14.33:826][224]LogPlayLevel: Display: Destroying online subsystem :Context_16
